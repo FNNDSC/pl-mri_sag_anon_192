@@ -6,7 +6,7 @@ with open(path.join(path.dirname(path.abspath(__file__)), 'README.rst')) as f:
 
 setup(
     name             = 'mri_sag_anon_192',
-    version          = '0.1',
+    version          = '1.0.0',
     description      = 'This application copies a set of image slices to the output directory.',
     long_description = readme,
     author           = 'FNNDSC',
